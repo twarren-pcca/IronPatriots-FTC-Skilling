@@ -1,79 +1,69 @@
-
 # 🧩 Design (CAD) Track
 **Tools:** Onshape (recommended), Fusion 360 (optional)
 
 ---
 
-## 🟢 Beginner (Weeks 1–4)
+## 🟢 Beginner
 
 ### 🎯 Goals
-- Learn sketching, constraints, extrusions
-- Understand FTC build systems (REV, Gobilda, Actobotics)
+- Learn OnShape (sketching, constraints, and extrusions)
+- Review FTC components and build systems
 
-### 📚 Training Modules
-- **Onshape Fundamentals**  
-  https://learn.onshape.com
+### 📚 Training Module
+- **Onshape in 100 Days Tutorial Series**  
+  [Watch Playlist](https://www.youtube.com/watch?v=fV3FuIon4UU&list=PLrJMSDJUL0BYl4ROh5FcOmuBmmriKHRbs)
+  - Complete Days 1-30 (10 min videos; recommend 2-3 per day).
+- **Alternative Intro Tutorial**  
+  [Watch Playlist](https://www.youtube.com/watch?v=pMWnsHpDlQE&list=PLxmrkna-ixrIQmsPR3MITi4Ru1bnMH4-l)
+
+### 🧪 Try it out
+- CAD a LEGO brick.
+- CAD a keychain and 3D print it.
+
+### 📚 Reference Sites
+- **GameManual0: CAD Intro**  
+  [https://gm0.org/en/latest/docs/design-skills/cad.html](https://gm0.org/en/latest/docs/design-skills/cad.html)
+- **GameManual0: Common Mechanisms**  
+  [https://gm0.org/en/latest/docs/common-mechanisms/index.html](https://gm0.org/en/latest/docs/common-mechanisms/index.html)
 - **GoBilda Build System Overview**  
-  https://www.gobilda.com/education/
-- **REV Build System Basics**  
-  https://docs.revrobotics.com/ftc
-
-### ▶️ YouTube Content
-- **Onshape for FTC (Team 11115)**  
-  https://www.youtube.com/watch?v=ZQJzFf7v2y0
-- **CAD for Beginners (JavelinTech)**  
-  https://www.youtube.com/watch?v=Vx3ZzFf7v2Y
-
-### 🧪 Optional Side Projects
-- CAD a simple drivetrain plate
-- CAD a phone mount
-- CAD a custom bracket and 3D print it
+  [https://www.gobilda.com/](https://www.gobilda.com/)
 
 ---
 
-## 🟡 Intermediate (Weeks 5–10)
+## 🟡 Intermediate
 
 ### 🎯 Goals
-- Create assemblies
-- Use mates correctly
-- Design mechanisms (intakes, arms, slides)
+- Create assemblies and use mates correctly
+- Design functional mechanisms (intakes, arms, slides)
 
-### 📚 Training Modules
-- **Onshape Assemblies Course**  
-  https://learn.onshape.com/courses/assemblies
-- **FTC Mechanism Design Guide**  
-  https://ftc-docs.firstinspires.org/en/latest/design/index.html
+### 📚 Training Module
+- **CAD for Robotics: Intro to Onshape**  
+  [https://learn.onshape.com/learn/article/intro-to-onshape](https://learn.onshape.com/learn/article/intro-to-onshape)
+- **Assemble a Drivetrain**  
+  [https://learn.onshape.com/learn/article/assemble-a-robot](https://learn.onshape.com/learn/article/assemble-a-robot)
 
-### ▶️ YouTube Content
-- **Designing FTC Mechanisms (WCP)**  
-  https://www.youtube.com/watch?v=8QZkqYgkYxE
-- **Linear Slide CAD Tutorial**  
-  https://www.youtube.com/watch?v=2YHBDZ2vWnA
+### 📚 Reference Sites
+- **GameManual0: CAD Tutorials**  
+  [https://gm0.org/en/latest/docs/design-skills/cad-tutorials.html](https://gm0.org/en/latest/docs/design-skills/cad-tutorials.html)
 
-### 🧪 Optional Side Projects
-- CAD a full intake system
-- CAD a 2‑stage linear slide
-- Create a bill of materials from your CAD
+### 🧪 Try it out
+- CAD a custom part or mechanism (intake, arm, slide).
+- Create a bill of materials (BOM) from your CAD.
 
 ---
 
-## 🔵 Advanced (Weeks 11+)
+## 🔵 Advanced
 
 ### 🎯 Goals
 - Fully CAD the robot before building
-- Use advanced mates, configurations
-- Design custom gearboxes, linkages
-- Run FEA (optional)
+- Use advanced mates and configurations
+- Design custom gearboxes and linkages
 
-### 📚 Training Modules
-- **Onshape Configurations**  
-  https://learn.onshape.com/courses/configurations
-- **Advanced FTC CAD (Glacier Peak)**  
-  https://www.youtube.com/watch?v=9YHBDZ2vWnA
+### 📚 Training Module
+- **CAD for Robotics: Creating Custom Components**  
+  [https://learn.onshape.com/learn/article/cad-for-robotics-creating-custom-components](https://learn.onshape.com/learn/article/cad-for-robotics-creating-custom-components)
 
-### 🧪 Optional Side Projects
-- CAD a full robot with wiring paths
-- Design a custom gearbox
-- Create a manufacturing drawing package
-
----
+### 🧪 Try it out
+- CAD a full robot.
+- **Mentor Peers**  
+  Help a Beginner or Intermediate student through their challenges.
