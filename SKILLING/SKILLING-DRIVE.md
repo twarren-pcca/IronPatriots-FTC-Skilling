@@ -1,62 +1,54 @@
-
 # 🏎️ Drive Team Track
 **Focus:** Control, consistency, communication, match strategy
 
 ---
 
-## 🟢 Beginner (Weeks 1–4)
+## 🟢 Beginner
 
 ### 🎯 Goals
 - Basic robot control
 - Understand field layout
 - Learn driver etiquette
 
-### 📚 Training Modules
-- **FTC Drive Team Guide**  
-  https://ftc-docs.firstinspires.org/en/latest/drive-team/index.html
-
-### ▶️ YouTube Content
-- **FTC Driving Basics**  
-  https://www.youtube.com/watch?v=JzFf7ZQKQ0E
-
-### 🧪 Optional Side Projects
-- Obstacle course driving
-- Timed pickup + scoring drills
+### 🧪 Try it out
+- **xRC Simulator**  
+  [https://xrcsimulator.org/](https://xrcsimulator.org/)
+  - Practice basic movement and field navigation in a simulated environment.
 
 ---
 
-## 🟡 Intermediate (Weeks 5–10)
+## 🟡 Intermediate
 
 ### 🎯 Goals
 - Develop consistent cycles
 - Practice communication patterns
 - Learn defensive driving
 
-### ▶️ YouTube Content
-- **How to Be a Better FTC Driver**  
-  https://www.youtube.com/watch?v=5n2B8j4GQ2U
-
-### 🧪 Optional Side Projects
-- Run 1‑minute cycle drills
-- Practice “blindfolded driver + coach only” communication
-- Scrimmage with another team
+### 🧪 Try it out
+- **xRC Simulator**  
+  [https://xrcsimulator.org/](https://xrcsimulator.org/)
+  - Practice high‑speed cycles and efficient pathing.
 
 ---
 
-## 🔵 Advanced (Weeks 11+)
+## 🔵 Advanced
 
 ### 🎯 Goals
 - High‑speed precision
 - Match strategy mastery
 - Pressure‑tested performance
 
-### ▶️ YouTube Content
-- **High‑Level FTC Driving (Worlds)**  
-  https://www.youtube.com/watch?v=0YHBDZ2vWnA
+### 🧪 Try it out
+- **xRC Simulator**  
+  [https://xrcsimulator.org/](https://xrcsimulator.org/)
+  - Compete in online matches to practice real‑time strategy and defense.
+- **Physical Drills**
+  - Simulate elimination matches.
+  - Practice “failure mode” drills (battery sag, motor stall).
+  - Develop a drive‑team playbook.
+- **Mentor Peers**  
+  Help a Beginner or Intermediate student through their drills.
 
-### 🧪 Optional Side Projects
-- Simulate elimination matches
-- Practice “failure mode” drills (battery sag, motor stall)
-- Develop a drive‑team playbook
-
----
+### 📚 Reference Sites
+- **FTC Worlds Matches (YouTube Search)**  
+  [Watch Videos](https://www.youtube.com/results?search_query=ftc+worlds)
