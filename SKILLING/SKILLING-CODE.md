@@ -1,6 +1,4 @@
-# 🚀 Programming Track
-**Languages:** Java (primary), Kotlin (optional), Android Studio  
-**Pathing System:** PedroPathing
+So you wanna learn how to program? Heh good luck
 
 ---
 
@@ -14,13 +12,9 @@
 ### 📚 Training Module
 - **Code-A-Robot**  
   [https://www.codearobot.org/](https://www.codearobot.org/)
-  - **Modules:**
-    - Basic Java
-    - Object-Oriented Java
-    - Methods
-    - Logic & Iteration
-    - Arrays and Lists
-    - Getting Ready for FTC
+  - Learn basic Java
+  - Learn intermediate Java (object orientation, etc)
+  - Getting ready for FTC
 
 ### 🧪 Try it out
 - **FTCSIM**  
@@ -35,7 +29,7 @@
 - **REV Robotics Control System Guide**  
   [https://docs.revrobotics.com/](https://docs.revrobotics.com/)
 - **Android Studio Setup for FTC**  
-  [Watch Video](https://www.youtube.com/watch?v=Y4dJf7v2y0E)
+  [https://ftc-docs.firstinspires.org/en/latest/programming_resources/android_studio_java/Android-Studio-Tutorial.html](https://ftc-docs.firstinspires.org/en/latest/programming_resources/android_studio_java/Android-Studio-Tutorial.html)
 
 ---
 
@@ -85,17 +79,13 @@
 - AprilTag detection and localization
 - Odometry + localization tuning
 - Modular, reusable code architecture
-- Learn Kotlin basics (optional)
+- Learn Kotlin (optional)
 
 ### 📚 Reference Sites
 - **FTC AprilTag Docs**  
   [https://ftc-docs.firstinspires.org/en/latest/apriltag/index.html](https://ftc-docs.firstinspires.org/en/latest/apriltag/index.html)
 - **PedroPathing Advanced Features**  
   [GitHub Repo](https://github.com/Beta8397/PedroPathing)
-- **Kotlin for Java Programmers**  
-  [Watch Video](https://www.youtube.com/watch?v=F9UC9DY-vIU)
-- **Advanced FTC Autonomous (OpenCV)**  
-  [Watch Video](https://www.youtube.com/watch?v=9QZkqYgkYxE)
 - **PedroPathing: Splines & Multi‑Segment Paths**  
   [Watch Video](https://www.youtube.com/watch?v=Yx1p8p8yQpA)
 - **PedroPathing: Full Autonomous Build‑Through**  
@@ -107,3 +97,21 @@
   - Complete **FTC Grabby** challenges.
 - **Mentor Peers**  
   Help a Beginner or Intermediate student through their challenges.
+
+### Kotlin
+
+Kotlin is a newer version of Java. Java and Kotlin are interchangeable in the same project, as they both compile for the JVM. I (Caleb) prefer Kotlin for several reasons:
+
+- Null safety
+- Modern, more language features
+
+However, there are a couple cons:
+
+- Not officially supported by FIRST (although, theoretically, it shouldn't cause problems, and it is competition legal)
+- Almost all tutorials/documentation are made for Java
+
+You should really only use Kotlin if you want Kotlin over Java, and know how they are interchangeable.
+
+### Questions?
+
+We know you have some. Talk to me, Caleb, and I'll try to search my brain for an answer.
